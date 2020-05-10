@@ -1,6 +1,7 @@
-# Functional Programming
-
+# Functional Programming                                                        
+                                                                                
 |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times)                                                         |   5   | [Solution.hs](https://github.com/BenjaminPatch/HackerRank_and_LeetCode_Solutions/blob/master/haskell/hackerRank/fpPath/Hello%20World%20N%20Times/Solution.hs)
 | [List Replication](https://www.hackerrank.com/challenges/fp-list-replication)                                                         |   10   | [Solution.hs](https://github.com/BenjaminPatch/HackerRank_and_LeetCode_Solutions/blob/master/haskell/hackerRank/fpPath/List%20Replication/Solution.hs)
+| [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array)                                                         |   10  | [Solution.hs](https://github.com/BenjaminPatch/HackerRank_and_LeetCode_Solutions/blob/master/haskell/hackerRank/fpPath/Filter%20Array/Solution.hs)
