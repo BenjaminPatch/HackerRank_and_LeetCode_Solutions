@@ -13,7 +13,7 @@ import System.Environment
 import System.IO
 import System.IO.Unsafe
 
--- Below has two solutions, one commented out.
+-- Below has two solutions.
 -- Print "Hello World" on a new line 'n' times.
 main :: IO()
 main = do
