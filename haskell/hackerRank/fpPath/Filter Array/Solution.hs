@@ -9,6 +9,9 @@ filter f (x:xs) = case f x of
     True -> (:) x (filter f xs)
     False -> filter f xs
 
+fAlternate :: Int -> [Int] -> [Int]
+fAlternate n arr = [x | x <- arr, x < n]
+
 -- The Input/Output section. You do not need to change or modify this part
 main = do 
     n <- readLn :: IO Int 
