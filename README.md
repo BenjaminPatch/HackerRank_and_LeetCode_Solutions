@@ -14,3 +14,10 @@ A repository where I will store all of my solutions to various algorithmic probl
 | [Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/)                                                         |   10  | [Solution.hs](https://github.com/BenjaminPatch/HackerRank_and_LeetCode_Solutions/blob/master/haskell/hackerRank/fpPath/Sum%20of%20Odd%20Elements/Solution.hs)
 | [List Length](https://www.hackerrank.com/challenges/fp-list-length/problem)                                                         |   10  | [Solution.hs](https://github.com/BenjaminPatch/HackerRank_and_LeetCode_Solutions/blob/master/haskell/hackerRank/fpPath/List%20Length/Solution.hs)
 | [Update List](https://www.hackerrank.com/challenges/fp-update-list/problem)                                                         |   10  | [Solution.hs](https://github.com/BenjaminPatch/HackerRank_and_LeetCode_Solutions/blob/master/haskell/hackerRank/fpPath/Update%20List/Solution.hs)                                                                                                     
+
+# Algorithms
+
+|                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |       
+|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)                                                         |   10   | [solution.py](https://github.com/BenjaminPatch/HackerRank_and_LeetCode_Solutions/blob/master/algorithms/Compare%20the%20Triplets/solution.py)
+
